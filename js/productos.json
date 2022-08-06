@@ -1,0 +1,6 @@
+[
+    {"nombre": "Vegano", "precio": 5, "descripcion": "Some quick example text to build on thecard title and make up the bulk of the card's content. ", "imagen":"img/foto1.jpg" },
+    {"nombre": "Salmon 3.0", "precio": 10, "descripcion": "Some quick example text to build on thecard title and make up the bulk of the card's content.", "imagen":"img/foto2.jpg" },
+    {"nombre": "Miti y Miti", "precio": 15, "descripcion": "Some quick example text to build on thecard title and make up the bulk of the card's content.", "imagen":"img/foto3.jpg" },
+    {"nombre": "Sr. Mishagi", "precio": 20, "descripcion": "Some quick example text to build on thecard title and make up the bulk of the card's content.", "imagen":"img/foto4.jpg" }
+]
